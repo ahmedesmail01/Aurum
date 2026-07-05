@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Luxury dark obsidian rounded background -->
+  <rect width="32" height="32" rx="6" fill="#0a0a0a" />
+  
+  <!-- Outer diamond facets -->
+  <path d="M16 6 L26 13 L16 26 L6 13 Z" fill="none" stroke="#dfc15d" stroke-width="1.5" stroke-linejoin="round" />
+  
+  <!-- Inner structural facet lines -->
+  <path d="M16 6 L16 26" stroke="#dfc15d" stroke-width="0.75" opacity="0.8" />
+  <path d="M6 13 L26 13" stroke="#dfc15d" stroke-width="0.75" opacity="0.8" />
+  <path d="M16 6 L11 13 L16 26 L21 13 Z" fill="none" stroke="#dfc15d" stroke-width="0.75" opacity="0.8" />
+</svg>
